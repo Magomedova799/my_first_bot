@@ -9,7 +9,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.client.session.aiohttp import AiohttpSession
 
-BOT_TOKEN = "8783922296:AAED7_hGYGee5HU4ngW_N6Y0-Go5ExQHYYA"
+BOT_TOKEN = "YOU_BOT"
 
 
 dp = Dispatcher(storage=MemoryStorage())
